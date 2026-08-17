@@ -1,0 +1,43 @@
+body{
+    background-color: azure;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+}
+
+.container{
+    background-color: hsl(61, 75%, 75%);
+    width: 400px;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    padding: 20px;
+    
+}
+.card{
+    background-color: hsl(61, 75%, 50%);
+    padding: 10px;
+    display: block;
+    margin: 15px;
+    border-radius: 6px;
+    border: 1px solid hsl(125, 90%, 49%);
+    cursor: pointer;
+}
+.card:hover{
+    border:1px solid hsl(135, 88%, 27%);
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    padding: 6px;
+    width:80%;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
