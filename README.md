@@ -1,1 +1,1 @@
-this is a frontend admin side bar created using html and css.
+this is a frontend page with cards which somebody can select created using html and css.
